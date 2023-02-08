@@ -1,6 +1,6 @@
-# flatlib
+# planetsentangled
 
-Flatlib is a python library for Traditional Astrology.
+Planetsentangled was forked from Flatlib, a python library for Traditional Astrology.
 
 ```python
 
